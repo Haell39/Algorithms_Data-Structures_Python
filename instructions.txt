@@ -1,0 +1,21 @@
+steps to implement an algorithm
+
+Big (O) Notatiom
+
+   For linear search we have O(n) time completxity
+   Binary search is O(log n)
+
+Runtime per operation
+
+    in linear search the the runtime is constant time that we called O(1) -> reading a value in a list is a constant time operation!
+
+    there are also logarithimic time
+
+    we also have quadritic time and cubic time
+
+    quasi-linear runtime is O(n log n)
+
+    
+
+
+
